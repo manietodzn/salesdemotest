@@ -917,7 +917,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "test"
+string text = "nuevo test"
 end type
 
 type rbb_main from ribbonbar within w_main
